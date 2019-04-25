@@ -1,0 +1,25 @@
+{
+  "name": "bowling-score-calculator",
+  "version": "1.0.0",
+  "description": "Your task is to write a function for calculating the score of a 10 pin bowling game. The input for this function will be **an array of objects**, and each object represents one frame. The objects can have any properties and values you see fit. Figuring out your input's data structure is part of the challenge.",
+  "main": "app.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bflores88/bowling-score-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bflores88/bowling-score-calculator/issues"
+  },
+  "homepage": "https://github.com/bflores88/bowling-score-calculator#readme"
+}
